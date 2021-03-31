@@ -12,7 +12,7 @@ WTForms==2.2.1
 beautifulsoup4==4.8.2
 requests==2.22.0
 scikit-learn==0.22.2.post1
-lxml==4.5.0
+lxml==4.6.3
 nltk==3.4.5
 numpy==1.18.2
 pandas==0.24.2
